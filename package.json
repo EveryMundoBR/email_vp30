@@ -1,0 +1,21 @@
+{
+  "name": "email02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-mjml": "^3.0.0",
+    "mjml": "^4.0.3",
+    "nodemon": "^1.17.3",
+    "run-sequence": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon ./server.js 9000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
