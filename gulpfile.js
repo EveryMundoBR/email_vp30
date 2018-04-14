@@ -3,13 +3,13 @@ var runSequence = require('run-sequence')
 var mjml = require('gulp-mjml')
 
 gulp.task('compile_mjml', function() {
-	return gulp.src('./email.mjml')
+	return gulp.src('./index.mjml')
 		.pipe(mjml())
 		.pipe(gulp.dest('./html'))
 })
 
 gulp.task('mjml:watch', function() {
-	gulp.watch([`./email.mjml`], ['compile_mjml'])
+	gulp.watch([`./index.mjml`], ['compile_mjml'])
 })
 
 gulp.task('default', function () {
