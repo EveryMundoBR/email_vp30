@@ -12,10 +12,16 @@
     <mj-section padding=0>
       <mj-image src="https://raw.githubusercontent.com/puc94/email_vp30/master/public/imgs/banner.png" padding=0></mj-image>
     </mj-section>
-    <mj-section padding="20px 0px">
+    <mj-section padding="20px 0px 40px">
       <mj-column align="center">
         <mj-text align="center" color="#ec2028" font-weight="900" padding-top="20" font-size="20px">EFICIÊNCIA EM EMBALAGEM</mj-text>
         <mj-image src="https://raw.githubusercontent.com/puc94/email_vp30/master/public/imgs/filme.png" width="200"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://raw.githubusercontent.com/puc94/email_vp30/master/public/imgs/gradient.png" background-size="cover">
+      <mj-column align="center">
+        <mj-text align="center" color="#fff" font-weight="900" font-size="20px">Nova embalagem de arroz busca revolucionar o mercado com mais resistência menos perdas e 36% mais produtividade</mj-text>
+        <mj-button background-color="#edcf21" color="#ec2028">CONHEÇA O FILMEVP30</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="20px 40px">
