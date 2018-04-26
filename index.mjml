@@ -45,7 +45,7 @@
       <mj-column vertical-align="middle" padding="0" padding-top="20px"><mj-image src="https://raw.githubusercontent.com/puc94/email_vp30/master/public/imgs/baixe.png" padding="0"></mj-image></mj-column>
     </mj-section>
     <mj-section padding-top="40px">
-      <mj-image src="https://raw.githubusercontent.com/puc94/email_vp30/master/public/imgs/bottom.png" width="250" />
+      <mj-image src="https://raw.githubusercontent.com/puc94/email_vp30/master/public/imgs/bottom.png" width="250" align="center" />
     </mj-section>
     <mj-section padding-left=20px padding-right=20px>
       <mj-image src="https://raw.githubusercontent.com/puc94/email_vp30/master/public/imgs/logo1.png" width="100" align="left" />
