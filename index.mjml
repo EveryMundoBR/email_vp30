@@ -12,9 +12,9 @@
     <mj-section padding=0>
       <mj-image src="https://raw.githubusercontent.com/puc94/email_vp30/master/public/imgs/banner.png" padding=0></mj-image>
     </mj-section>
-    <mj-section padding=0>
+    <mj-section padding="20px 0px">
       <mj-column align="center">
-        <mj-text align="center" color="#ec2028" font-weight="900" font-size="18px">MAIS RESISTÊNCIA, MENOS PERDAS E MAIS PRODUTIVIDADE</mj-text>
+        <mj-text align="center" color="#ec2028" font-weight="900" padding-top="20" font-size="20px">EFICIÊNCIA EM EMBALAGEM</mj-text>
         <mj-image src="https://raw.githubusercontent.com/puc94/email_vp30/master/public/imgs/filme.png" width="200"></mj-image>
       </mj-column>
     </mj-section>
